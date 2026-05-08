@@ -39,3 +39,106 @@ nav ul li{
 nav ul li a{
     color: #fff;
 }
+.header-color .wrapper h1{
+    font-size: 48px;
+    line-height: 72px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.header-color, .wrapper p{
+    font-size: 18px;
+    line-height: 29px;
+    margin-bottom: 40px;
+}
+button{
+    display: block;
+    margin: 0 auto 40px;
+    border: none;
+    background: #01d4ff;
+    padding: 10px 40px;
+    font-size: 16px;
+    line-height: 34px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.header-color .wrapper img{
+    width: 800px;
+    border-radius: 5px;
+}
+.reasons{
+    background: #f5f5f5;
+}
+h2{
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.reasons, .professions {
+    padding: 50px 0;
+}
+.reasons-box{
+    max-width: 600px;
+    background: #fff;
+    border-radius: 5px;
+    padding: 25px;
+    box-shadow: 0 2px 10px rgba(37, 37, 37, 0.2);
+}
+.reasons .wrapper article{
+    margin: 0 auto 20px;
+}
+.reasons-box-icon{
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+h3{
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.reasons-box p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #666666
+}
+.professions-card{
+    max-width: 700px;
+    overflow: hidden;
+    margin: 0 auto 30px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    text-align: left;
+}
+.professions-card img{
+    object-fit: cover;
+    width: 100%;
+}
+.professions-card h3{
+    font-size: 28px;
+    line-height: 42px;
+    padding: 10px 30px;
+}
+.professions-card p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #666666;
+    padding: 10px 30px;
+}
+.professions-card p.blue{
+    color: #01d4ff;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+footer{
+    background: #191a2e;
+    color: #fff;
+    padding: 40px 0;
+}
+footer p{
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 20px;
+}
